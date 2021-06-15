@@ -4,14 +4,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Prueba</title>
+    <title>PruebIntegrar bootstrap</title>
 </head>
 <body>
     <!--PARA HACER COMENTARIOS -->
-    <H1>TITULO</H1>
-    <H2>TITULO MAS PEQUEÑO 
+    <H1>Requena Alvarez Carlos</H1>
+    <H2>DSM-32
     </H3>
-</p>PARRAFO
+</p>Realizar el template de bootstrap en un archivo index
     
 </body>
 </html>
+
