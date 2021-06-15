@@ -12,7 +12,18 @@
     <H2>DSM-32
     </H3>
 </p>Realizar el template de bootstrap en un archivo index
-    
+    <div class="container">
+  <div class="row">
+    <div class="col">
+      Column
+    </div>
+    <div class="col">
+      Column
+    </div>
+    <div class="col">
+      Column
+    </div>
+  </div>
+</div>
 </body>
 </html>
-
